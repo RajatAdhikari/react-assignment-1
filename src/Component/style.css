@@ -1,0 +1,61 @@
+.App{
+/* background-color: linear-gradient(lightblue,pink, yellow); */
+background-image: linear-gradient(lightblue,pink,lightyellow);
+height: 100vh;
+}
+.text1{
+    text-shadow: 3px 3px 3px aqua;
+    
+}
+.button1{
+    height:50px;
+    width:250px;
+    border-radius: 50px;
+    background-color: lightblue;
+    position: relative;
+    top: 100px;
+    left: -50px;
+    cursor: pointer;
+
+}
+.button2{
+    height:50px;
+    width:250px;
+    border-radius: 50px;
+    background-color: lightblue;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    cursor: pointer;
+
+}
+.Functional{
+    height: 300px;
+    width:500px;
+    background-color: aqua;
+    border:5px solid black;
+    border-radius: 15px;
+    position: relative;
+    top: 10rem;
+}
+.firtcomnt{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.secondcomnt{
+    color: blue;
+}
+.Class{
+    height: 300px;
+    width:500px;
+    background-color: pink;
+    border:5px solid black;
+    border-radius: 15px;
+    position: relative;
+    bottom: 9rem;
+    left: 900px;
+}
+.firtcomnt1{
+    font-size: 30px;
+    font-weight: bolder;
+}
