@@ -12,8 +12,8 @@ height: 100vh;
     position: absolute;
     height: 50px;
     width: 30em;
-    background-color: rgb(104, 13, 222);
-    color: rgb(167, 231, 94);
+    background-color:cornflowerblue;
+    color: green;
     border-radius: 25px;
     left: 18em;
     top: 11em;
@@ -27,8 +27,8 @@ height: 100vh;
     position: absolute;
     height: 50px;
     width: 30em;
-    background-color: rgb(104, 13, 222);
-    color: rgb(167, 231, 94);
+    background-color:cornflowerblue;
+    color: green;
     border-radius: 25px;
     left: 55em;
     top: 11em;
@@ -43,7 +43,7 @@ height: 100vh;
     border: 4px solid black;
     padding: 20px;
     border-radius: 3em;
-    background: orange;
+    background: brown;
     height: 18em;
     width: 30em;
     left: 12em;
@@ -61,7 +61,7 @@ height: 100vh;
     border: 4px solid black;
     padding: 20px;
     border-radius: 3em;
-    background: rgb(186, 49, 196);
+    background: sienna;
     height: 18em;
     width: 30em;
     left: 50em;
@@ -73,12 +73,12 @@ height: 100vh;
 }
 .button1:hover{
     background-color: rgb(144, 239, 144);
-    text-shadow: 3px 3px 3px green;
+    text-shadow: 3px 3px 3px white;
  
 }
 .button2:hover{
     background-color: rgb(144, 239, 144);
-    text-shadow: 3px 3px 3px green;
+    text-shadow: 3px 3px 3px white;
     
 
 
