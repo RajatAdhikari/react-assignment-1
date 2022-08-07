@@ -1,3 +1,4 @@
+
 .App{
 /* background-color: linear-gradient(lightblue,pink, yellow); */
 background-image: linear-gradient(lightblue,pink,lightyellow);
@@ -8,35 +9,45 @@ height: 100vh;
     
 }
 .button1{
-    height:50px;
-    width:250px;
-    border-radius: 50px;
-    background-color: lightblue;
-    position: relative;
-    top: 100px;
-    left: -50px;
-    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    width: 30em;
+    background-color: rgb(104, 13, 222);
+    color: rgb(167, 231, 94);
+    border-radius: 25px;
+    left: 18em;
+    top: 11em;
+    font-style: italic;
+   font-weight: bolder;
+    cursor:pointer;
+    font-size: 15px;
 
 }
 .button2{
-    height:50px;
-    width:250px;
-    border-radius: 50px;
-    background-color: lightblue;
-    position: relative;
-    top: 100px;
-    left: 50px;
+    position: absolute;
+    height: 50px;
+    width: 30em;
+    background-color: rgb(104, 13, 222);
+    color: rgb(167, 231, 94);
+    border-radius: 25px;
+    left: 55em;
+    top: 11em;
+    font-style: italic;
+    font-weight: bolder;
     cursor: pointer;
+    font-size: 15px;
 
 }
 .Functional{
-    height: 300px;
-    width:500px;
-    background-color: aqua;
-    border:5px solid black;
-    border-radius: 15px;
-    position: relative;
-    top: 10rem;
+    position: absolute;
+    border: 4px solid black;
+    padding: 20px;
+    border-radius: 3em;
+    background: orange;
+    height: 18em;
+    width: 30em;
+    left: 12em;
+    top: 20em;
 }
 .firtcomnt{
     font-size: 30px;
@@ -46,16 +57,29 @@ height: 100vh;
     color: blue;
 }
 .Class{
-    height: 300px;
-    width:500px;
-    background-color: pink;
-    border:5px solid black;
-    border-radius: 15px;
-    position: relative;
-    bottom: 9rem;
-    left: 900px;
+    position: absolute;
+    border: 4px solid black;
+    padding: 20px;
+    border-radius: 3em;
+    background: rgb(186, 49, 196);
+    height: 18em;
+    width: 30em;
+    left: 50em;
+    top: 20em;
 }
 .firtcomnt1{
     font-size: 30px;
     font-weight: bolder;
+}
+.button1:hover{
+    background-color: rgb(144, 239, 144);
+    text-shadow: 3px 3px 3px green;
+ 
+}
+.button2:hover{
+    background-color: rgb(144, 239, 144);
+    text-shadow: 3px 3px 3px green;
+    
+
+
 }
