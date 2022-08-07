@@ -1,7 +1,7 @@
 import './App.css';
-import Class from './Component/Class';
+// import Class from './Component/Class';
 import Common from './Component/Common';
-import Functional from './Component/Functional';
+// import Functional from './Component/Functional';
 // import './Component/style.css'
 import './Component/style.css'
 
